@@ -8,6 +8,7 @@ namespace TrueFalseInterface
 {
     static class Program
     {
+        // Волков Матвей
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
